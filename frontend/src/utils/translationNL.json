@@ -1,0 +1,66 @@
+{
+    "selectLanguage": "Kies taal",
+    "navbar": {
+        "selectLanguage": "Kies taal",
+        "home": "Thuis",
+        "works": "Werken",
+        "services": "Diensten",
+        "location": "Plaats",
+        "contact": "Contact"
+    },
+    "homepage": {
+        "title": "Entreprise de nettoyage",
+        "subtitle": "Uw ruimtes, onze expertise.",
+        "subtitle2": "Professionele schoonmaak overal in België.",
+        "button": "Contacteer ons",
+        "name": "Volledige naam",
+        "email": "E-mail",
+        "number": "Telefoon",
+        "message": "Bericht",
+        "button2": "Bericht verzenden"
+    },
+    "works": {
+        "title": "Wat je krijgt is wat je ziet",
+        "subtitle": "Onberispelijke resultaten, gegarandeerd door onze expertise.",
+        "button": "Bekijk onze diensten"
+    },
+    "services": {
+        "title": "Onze schoonmaakdiensten",
+        "subtitle": "Wij bieden gespecialiseerde schoonmaakdiensten voor appartementen, kantoren, appartementen, postbouw en nog veel meer.",
+        "button": "Découvrir",
+        "types": [
+            "Na",
+            "Ruimtes",
+            "Ramen",
+            "Kamers",
+            "Buiten",
+            "Garages",
+            "Trappen",
+            "Voertuigen",
+            "Alle"
+        ]
+    },
+    "elements": {},
+    "location": {
+        "title": "Waar ons te vinden",
+        "subtitle": "Rue Brederode 16, 1000 Brussel, België."
+    },
+    "contact": {
+        "title": "Contacteer ons",
+        "subtitle": "Voor meer informatie kunt u ons laten weten welke informatie u nodig heeft voordat u informatie over uw behoeften opvraagt.",
+        "button": "Contacteer ons",
+        "contact": "Contacten",
+        "phoneContact": "Contact telefoon",
+        "name": "Volledige naam",
+        "message": "Bericht",
+        "number": "Telefoonnummer",
+        "email": "Contact e-mail",
+        "emailContact": "Contact via e-mail",
+        "button2": "Verzenden",
+        "copied": "gekopieerd naar klembord",
+        "deservedRights": "Alle rechten voorbehouden",
+        "emailSent": "E-mail verzonden!",
+        "emailNotSent": "Fout bij het verzenden van de e-mail.",
+        "fillAllFields": "Vul alle velden in."
+    }
+}

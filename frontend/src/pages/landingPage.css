@@ -1,0 +1,11 @@
+.landing-page-container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    /* Full height of the viewport */
+}
+
+.landing-page-container>* {
+    flex: 1;
+    /* Each child takes equal space */
+}

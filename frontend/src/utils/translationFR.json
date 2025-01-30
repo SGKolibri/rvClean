@@ -1,0 +1,66 @@
+{
+    "selectLanguage": "Choisir la langue",
+    "navbar": {
+        "selectLanguage": "Choisir la langue",
+        "home": "Accueil",
+        "works": "Travaux",
+        "services": "Services",
+        "location": "Emplacement",
+        "contact": "Contact"
+    },
+    "homepage": {
+        "title": "Entreprise de nettoyage",
+        "subtitle": "Vos espaces, notre expertise.",
+        "subtitle2": "Nettoyage professionnel partout en Belgique.",
+        "button": "Contactez-nous",
+        "name": "Nom et prénom",
+        "email": "E-mail",
+        "number": "Téléphone",
+        "message": "Message",
+        "button2": "Envoyer le message"
+    },
+    "works": {
+        "title": "Ce que vous voyez, c'est ce que vous aurez",
+        "subtitle": "Des résultats impeccables, garantis par notre expertise.",
+        "button": "Voir nos prestations"
+    },
+    "services": {
+        "title": "Nos services de nettoyage",
+        "subtitle": "Nous offrons des services de nettoyage spécialisés pour appartements, bureaux, appartements, post-construction et bien d'autres.",
+        "button": "Découvrir",
+        "types": [
+            "Après",
+            "Espaces",
+            "Vitres",
+            "Chambres",
+            "Extérieurs",
+            "Garages",
+            "Escaliers",
+            "Véhicules",
+            "Tous"
+        ]
+    },
+    "elements": {},
+    "location": {
+        "title": "Où nous trouver",
+        "subtitle": "Rue Brederode 16, 1000 Bruxelles, Belgique."
+    },
+    "contact": {
+        "title": "Contactez-nous",
+        "subtitle": "Pour plus d’informations, veuillez nous indiquer les informations dont vous avez besoin avant de demander des informations sur vos besoins.",
+        "button": "Nous contacter",
+        "contact": "Contacts",
+        "phoneContact": "Téléphone de contact",
+        "name": "Nom complet",
+        "message": "Message",
+        "number": "Numéro de téléphone",
+        "email": "E-mail de contact",
+        "emailContact": "Contact par e-mail",
+        "button2": "Envoyer",
+        "copied": "copié dans le presse-papiers",
+        "deservedRights": "Tous droits réservés",
+        "emailSent": "Email envoyé!",
+        "emailNotSent": "Erreur lors de l'envoi du mail.",
+        "fillAllFields": "Veuillez remplir tous les champs."
+    }
+}
